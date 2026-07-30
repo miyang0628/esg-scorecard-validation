@@ -81,13 +81,13 @@ significant at n = 26; the direction and magnitude are nonetheless
 consistent with large-sample prior evidence, which is why the results are
 framed as an illustrative demonstration.
 
-**Quadratic-weighted Cohen's kappa (4 ordinal bins):**
+**Quadratic-weighted Cohen's kappa (ordinal-aware; native grades kept for MSCI):**
 
 | Rater pair | Weighted kappa |
 |---|---:|
 | S&P vs Sustainalytics | 0.072 |
-| S&P vs MSCI | 0.072 |
-| Sustainalytics vs MSCI | 0.449 |
+| S&P vs MSCI | 0.211 |
+| Sustainalytics vs MSCI | 0.281 |
 
 **Convergent validity by pillar (S&P pillar vs other raters, Spearman):**
 
